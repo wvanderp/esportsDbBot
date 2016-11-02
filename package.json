@@ -1,0 +1,19 @@
+{
+  "name": "esportsdbbot",
+  "description": "a bot for esportsdb.net",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.8",
+    "languagedetect": "^1.1.1",
+    "nodemw": "^0.10.1",
+    "querystring": "*",
+    "request": "*",
+    "wtf_wikipedia": "^0.5.0",
+  }
+}
