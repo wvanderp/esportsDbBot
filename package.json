@@ -10,8 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "deasync": "^0.1.8",
-    "wtf_wikipedia": "*",
-    "nodemw": "*"
+    "nodemw": "*",
+    "wikibase-api": "github:wvanderp/wikibase-api",
+    "wtf_wikipedia": "*"
   },
   "repository": "wvanderp/esportsDbBot"
 }
